@@ -40,4 +40,4 @@ After running each notebook, a new folder is created in `.../mldl2023/storage/X`
 Please pay attention that to continue an unfinished experiment, you are only required to use the same `config` dictionary. In case you want to reset an experiment, manually delete its corresponding folder from the `storage` folder. Note that changing the `param` variable in an existing experiment does not have any effects.
 
 ## Evaluation
-For the purposes of confirmation and comparison, you can run the `evaluation.ipynb` notebook to evaluate all the best models stored for each step of the project. This notebook loads a pretrained model for each step and test it on the IDDA dataset.
+For the purposes of confirmation and comparison, you can run the `evaluation.ipynb` notebook to evaluate all the best models stored for each step of the project. This notebook loads a pretrained model for each step and test it on the IDDA dataset. Please note that all the results are already contained in the notebook.
