@@ -42,5 +42,5 @@ Please pay attention that to continue an unfinished experiment, you are only req
 ## Evaluation
 For the purposes of confirmation and comparison, you can run the `evaluation.ipynb` notebook to evaluate all the best models stored for each step of the project. This notebook loads a pretrained model for each step and test it on the IDDA dataset. Please note that all the results are already contained in the notebook.
 
-## More!
+# More!
 You can find more information about this project and our implementations in the paper.pdf file located in the repository.
